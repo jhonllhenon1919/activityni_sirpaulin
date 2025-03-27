@@ -1,0 +1,2 @@
+# activityni_sirpaulin
+reactnative
